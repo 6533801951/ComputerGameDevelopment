@@ -4,4 +4,4 @@
 
 - งานที่ 5 [เข้าเกมที่ลิ้งค์นี้](https://6533801951.github.io/ComputerGameDevelopment/Lab5/Lab5.html)
 - งานที่ 6 [เข้าเกมที่ลิ้งค์นี้](https://6533801951.github.io/ComputerGameDevelopment/Lab6/lab6.html)
-- งานที่ 7 [เข้าเกมที่ลิ้งค์นี้](https://6533801951.github.io/ComputerGameDevelopment/Lab6/StarterKit3DPlatformer.html)
+- งานที่ 7 [เข้าเกมที่ลิ้งค์นี้](https://6533801951.github.io/ComputerGameDevelopment/Lab7/Starter%20Kit%203D%20Platformer.html)
